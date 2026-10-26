@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频中文字幕制作"
+  short_description: "自动识别视频语音与画面文字的语言，翻译为简体中文并制作双层字幕视频"
+  default_prompt: "使用 $video-to-chinese-subtitles 处理这个视频，自动识别语言，翻译成简体中文并嵌入字幕。"
